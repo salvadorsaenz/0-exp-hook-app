@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.bg-gradient {
+  background-image: linear-gradient(to bottom right, #0f172a, #111827, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  color: #fff;
+}
